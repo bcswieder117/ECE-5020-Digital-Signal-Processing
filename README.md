@@ -1,7 +1,7 @@
 # ECE 5020: Digital Signal Processing
 
-**ECE Course — M.Sc. in Electrical and Computer Engineering**
-Tennessee Technological University | Spring 2026
+Final Grade: B
+School: Tennessee Technological University, Spring 2026
 
 ## Course Description
 Theory and practice of discrete-time signals and systems, A/D and D/A conversion, filter design,
