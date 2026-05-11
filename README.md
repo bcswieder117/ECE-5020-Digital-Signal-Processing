@@ -1,6 +1,7 @@
 # ECE 5020: Digital Signal Processing
 
 Final Grade: B
+
 School: Tennessee Technological University, Spring 2026
 
 ## Course Description
